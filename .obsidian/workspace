@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b06e343b231a4064",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce31a4ae4041817",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "nvim 配置.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e459d5bef719312d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f215c1449579f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea977242bc1a875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "898cd0d337ae922c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "607830f24fe67fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3d722200d86293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91c2836666030c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nvim 配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ce31a4ae4041817",
+  "lastOpenFiles": [
+    "nvim 配置.md",
+    "vscode.md",
+    "vim使用.md",
+    "snap.md",
+    "Untitled.md"
+  ]
+}
