@@ -4,7 +4,7 @@
 git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 
 ```
-![[image/Pasted image 20220527170453.png]]
+![[../image/Pasted image 20220527170453.png]]
 
 
 ### LSP
